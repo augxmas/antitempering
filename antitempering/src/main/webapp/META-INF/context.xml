@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<Resource 
+		name="antitempering/mysql"
+		auth="Container"
+		type="javax.sql.DataSource"
+		driverClassName="com.mysql.cj.jdbc.Driver"
+		url="jdbc:mysql://mysql.monorama.kr:3306/antitempering?characterEncoding=UTF-8&amp;serverTimezone=UTC&amp;autoReconnect=true"
+		username="allower"
+		password="grzmyjwA7r4U6VapJYtY"
+		maxWaitMillis="20"
+		maxIdle="10"
+		maxWait="-1"
+	/>
+ </Context> 
